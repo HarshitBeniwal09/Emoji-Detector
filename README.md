@@ -36,7 +36,7 @@ I eat food 🍴
 
 ---
 
-## 🛠Features
+## Features
 
 - Uses a dictionary of emojis mapped to textual labels.
 - Converts text to vector representation using GloVe.
@@ -46,6 +46,6 @@ I eat food 🍴
 
 ---
 
-## 📄 License
+## License
 
 This project is provided for educational purposes and does not include licensing for GloVe embeddings, which are distributed by Stanford NLP under their own terms.
